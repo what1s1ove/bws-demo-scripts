@@ -1,6 +1,8 @@
 # bws-demo-scripts
 
-### SLC folter-title function
+## SLC
+
+### Folter-title function
 
 ```ts
 exports.handler = async (event) => {
@@ -16,7 +18,17 @@ exports.handler = async (event) => {
 };
 ```
 
-### SC initial script
+### Folter-title function payload
+
+```json
+{
+  "string": "Episode 1. Academy 2021."
+}
+```
+
+## SC
+
+### Initial script
 
 ```bash
 #!/bin/bash
