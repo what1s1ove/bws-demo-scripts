@@ -1,6 +1,6 @@
 # bws-demo-scripts
 
-SLC folter-title function
+### SLC folter-title function
 
 ```ts
 exports.handler = async (event) => {
@@ -16,7 +16,7 @@ exports.handler = async (event) => {
 };
 ```
 
-SC initial script
+### SC initial script
 
 ```bash
 #!/bin/bash
